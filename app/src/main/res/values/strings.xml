@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Player</string>
+    <string name="allow_please">Please allow reading from external storage</string>
+    <string name="action_settings">Settings</string>
+    <string name="what_a_pity">Oh! App cannot perform its functions without permissions</string>
+    <string name="service_name">Music player</string>
+</resources>

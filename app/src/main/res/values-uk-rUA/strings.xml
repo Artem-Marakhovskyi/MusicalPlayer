@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Музичний програвач</string>
+    <string name="action_settings">Settings</string>
+    <string name="allow_please">Додатку необхідний дозвіл для читання інформації із зовнішнього носія</string>
+    <string name="what_a_pity">На жаль, додаток не може функціонувати у повному обсязі</string>
+    <string name="service_name">Музичний плеєр</string>
+</resources>
